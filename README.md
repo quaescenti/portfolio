@@ -11,7 +11,7 @@
   - Google sheets;
   - Google Analytics;
   - SQL (PostgreSQL);
-  - Знание основ статистики, теории вероятности и комбинаторики;
+  - Знание основ статистики, теории вероятностей и комбинаторики;
   - Power Point.
 
 - :zap: Soft skills:
