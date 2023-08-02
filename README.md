@@ -47,12 +47,12 @@
  
 <p> Проект 3: Моделирование изменения балансов студентов</p> 
 
-> <a href="">Ссылка на проект</a>
+> <a href="https://github.com/quaescenti/portfolio/tree/a8e34cfd4b26f94f5f2d62d93e64a6924d313e08/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%203%3A%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%20%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2">Ссылка на проект</a>
 
 ## Другие кейсы Excel
 <p> Когортный анализ</p>
 
-> <a href="">Ссылка на кейс</a>
+> <a href="https://github.com/quaescenti/portfolio/tree/a8e34cfd4b26f94f5f2d62d93e64a6924d313e08/%D0%9A%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7">Ссылка на кейс</a>
 
 <p> Бизнес метрики</p>
 
